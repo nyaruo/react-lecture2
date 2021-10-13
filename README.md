@@ -3,7 +3,7 @@ https://youtu.be/VzWBLj_CfpE
 
 ## Memorandum (備忘録)
 今回のレクチャー資料
-- React Lecture(4) https://zenn.dev/nyarufoy/articles/9e7f8daef54555
+- React Lecture(4) [ポートフォリオ] https://zenn.dev/nyarufoy/articles/9e7f8daef54555
 
 前回までのレクチャー資料
 - React Lecture(1) [環境構築 & HelloWorld] https://zenn.dev/nyarufoy/articles/ef433a40d9b209

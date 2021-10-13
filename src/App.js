@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import PageA from "./pages/PageA";
 import PageB from "./pages/PageB";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/pageA" component={PageA} />
         <Route path="/pageB" component={PageB} />
       </Switch>
+      <Footer />
     </Router>
   );
 }

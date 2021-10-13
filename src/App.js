@@ -2,12 +2,12 @@ import { Switch, Route, BrowserRouter as Router } from "react-router-dom";
 import Home from "./pages/Home";
 import PageA from "./pages/PageA";
 import PageB from "./pages/PageB";
-import Navbar from "./components/Navbar";
+import Header from "./components/Header";
 
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Header />
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/pageA" component={PageA} />
